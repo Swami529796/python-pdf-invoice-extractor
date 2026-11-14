@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+
+# Generated output
+Invoices.xlsx
+
+# Excel lock files
+~$*
+
+# Windows
+Thumbs.db
+desktop.ini
